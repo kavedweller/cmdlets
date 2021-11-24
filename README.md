@@ -7,6 +7,7 @@
 ```
 
 `arg1`: Location eg. `SDP` (Saidpur Airport, Bangladesh), `SPD` (Sandpoint Airport, Alaska), `Dhaka` etc.
+
 `arg2`: (Optional) Output format. eg. `1`, `3`, `v2`, `v3` etc. Default is `3`.
 
 ## wttrc.cmd
