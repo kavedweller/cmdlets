@@ -1,15 +1,18 @@
 # cmdlets
 
 ## wttr.ps1
- `wttr`: Weather in PowerShell. 
-``` powershell
-wttr arg1 arg2
-```
+ `wttr`: Weather in PowerShell.
+ 
+```wttr arg1 arg2```
 
 `arg1`: Location eg. `SDP` (Saidpur Airport, Bangladesh), `SPD` (Sandpoint Airport, Alaska), `Dhaka` etc.
 
 `arg2`: (Optional) Output format. eg. `1`, `3`, `v2`, `v3` etc. Default is `3`.
 
+Example:
+``` powershell
+wttr Dhaka 3
+```
 ## wttrc.cmd
 `wttrc`: Weather in command prompt terminal (Windows) requires `curl`.
 
