@@ -1,7 +1,7 @@
 # cmdlets
 
 ## wttr.ps1
- `wttr`: Weather in PowerShell.
+ `wttr`: Weather in PowerShell. Based on [wttr.in](https://github.com/chubin/wttr.in).
  
 ```wttr arg1 arg2```
 
@@ -14,7 +14,7 @@ Example:
 wttr Dhaka 3
 ```
 ## wttrc.cmd
-`wttrc`: Weather in command prompt terminal (Windows) requires `curl`.
+`wttrc`: Weather in command prompt terminal (Windows) requires `curl` and based on [wttr.in](https://github.com/chubin/wttr.in).
 
 Example 1:
 ```cmd
